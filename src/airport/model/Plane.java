@@ -3,9 +3,7 @@ package airport.model;
 public class Plane {
 
     private String name;
-
     private int releaseYear;
-
     private int hoursInAir;
     private boolean isMilitary;
 
